@@ -1,3 +1,9 @@
+
+# This programm help to create Random Password with user input 
+
+# Author : jashkv
+# Date   : 1-Dec-2023
+
 import random
 import string
 
